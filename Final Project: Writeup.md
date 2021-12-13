@@ -5,7 +5,7 @@
 2. Team members: **Alexandra Neubauer, Sierra Johnson, Alex Carpentieri**
 Location: **Salt Lake City, UT, United States**
 3. Release Date: **December 13th, 2021**
-4. Platforms: TODO Arduino, Raspberry Pi, LED Screen, 
+4. Platforms: Linux, Arduino, Raspberry Pi, and LED Screen
 4. Website: https://github.com/Sierra-Johnson/VR-wireless-headset
 
 
@@ -71,7 +71,7 @@ https://youtu.be/RaBrHfQ4gZM
   <img
   src="https://github.com/Sierra-Johnson/VR-wireless-headset/blob/main/Images/VR_05.jpg?raw=true"
   alt="">
-  <figcaption>Readings from Gyroscope and Accelerometer (TODO check this)</figcaption>
+  <figcaption>Readings from Gyroscope and Accelerometer</figcaption>
 </figure>
 
 
@@ -116,7 +116,7 @@ https://youtu.be/RaBrHfQ4gZM
 
 <figure>
   <img
-  src="TODO"
+  src="https://github.com/Sierra-Johnson/VR-wireless-headset/blob/main/Images/Development%20Team%20Pictures/20211212_110529.jpg"
   alt=" ">
   <figcaption>Alex Carpentieri</figcaption>
 </figure>
