@@ -42,12 +42,14 @@ https://youtu.be/RaBrHfQ4gZM
   <figcaption>Fully configured headset (without helmet)</figcaption>
 </figure>
 
+
 <figure>
   <img
   src="https://github.com/Sierra-Johnson/VR-wireless-headset/blob/main/Images/VR_02.jpg?raw=true"
   alt="">
   <figcaption>Headset works with wireless mouse and keyboard duo</figcaption>
 </figure>
+
 
 <figure>
   <img
@@ -56,6 +58,7 @@ https://youtu.be/RaBrHfQ4gZM
   <figcaption>Side profile of display attachment to headmount</figcaption>
 </figure>
 
+
 <figure>
   <img
   src="https://github.com/Sierra-Johnson/VR-wireless-headset/blob/main/Images/VR_04.jpg?raw=true"
@@ -63,12 +66,14 @@ https://youtu.be/RaBrHfQ4gZM
   <figcaption>Backside of headset (Raspberry Pi configured under Arduino)</figcaption>
 </figure>
 
+
 <figure>
   <img
   src="https://github.com/Sierra-Johnson/VR-wireless-headset/blob/main/Images/VR_05.jpg?raw=true"
   alt="">
   <figcaption>Readings from Gyroscope and Accelerometer (TODO check this)</figcaption>
 </figure>
+
 
 <figure>
   <img
@@ -99,6 +104,7 @@ https://youtu.be/RaBrHfQ4gZM
   alt=" ">
   <figcaption>Sierra Johnson</figcaption>
 </figure>
+
 
 <figure>
   <img
